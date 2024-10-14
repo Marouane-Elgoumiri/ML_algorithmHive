@@ -6,6 +6,15 @@
 
 </div>
 
+***Using a manual example:***
+<div align="center">
+
+![Screenshot from 2024-10-14 11-43-46](https://github.com/user-attachments/assets/aa64489b-2784-4d85-b716-f848103594bb)
+
+</div>
+
+
+
 ### Initial data:
 
 
@@ -57,3 +66,9 @@ plt.show()
 ![Screenshot from 2024-10-14 11-15-32](https://github.com/user-attachments/assets/400ecb70-22e4-4db8-b040-253d623b46e6)
 
 </div>
+
+### Important notes:
+**The results may vary slightly from our manual calculation because:**
+
+The K-means algorithm in scikit-learn uses a more sophisticated initialization method (k-means++) than our simple random selection.
+The algorithm runs for multiple iterations to refine the clusters, whereas we only did one iteration in our manual example.
