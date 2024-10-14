@@ -1,5 +1,5 @@
 # ML_algorithmHive
-<div align="center>
+<div align="center">
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow)
@@ -7,8 +7,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
 </div>
 
-Series of Machine Learning algorithms: 
--> K-Means
+## Series of Machine Learning algorithms: 
+#### K-Means
