@@ -1,6 +1,3 @@
-To create a comprehensive repository on computer vision, including its concepts, applications, and a practical example in a Jupyter Notebook (`.ipynb`), you can structure your README file and code like the following:
-
-
 # Computer Vision 
 
 ## Overview
