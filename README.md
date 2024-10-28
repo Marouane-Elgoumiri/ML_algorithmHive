@@ -11,4 +11,5 @@
 
 ## Series of Machine Learning algorithms: 
 #### K-Means
+#### Computer Vision
 

@@ -1,7 +1,7 @@
 To create a comprehensive repository on computer vision, including its concepts, applications, and a practical example in a Jupyter Notebook (`.ipynb`), you can structure your README file and code like the following:
 
-```markdown
-# Computer Vision Repository
+
+# Computer Vision 
 
 ## Overview
 
@@ -74,6 +74,6 @@ print(f'Predicted class label: {class_label}')
 This repository serves as a foundation for understanding computer vision and how to implement basic image processing techniques. You can expand upon this by adding more complex models, exploring different architectures, or applying these concepts to another domain.
 
 ## License
-
+```
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ``` 
