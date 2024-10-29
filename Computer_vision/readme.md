@@ -1,6 +1,3 @@
-To create a comprehensive repository on computer vision, including its concepts, applications, and a practical example in a Jupyter Notebook (`.ipynb`), you can structure your README file and code like the following:
-
-
 # Computer Vision 
 
 ## Overview
@@ -69,9 +66,7 @@ class_label = np.argmax(pred, axis=1)
 print(f'Predicted class label: {class_label}')
 ```
 
-## Conclusion
 
-This repository serves as a foundation for understanding computer vision and how to implement basic image processing techniques. You can expand upon this by adding more complex models, exploring different architectures, or applying these concepts to another domain.
 
 ## License
 ```
